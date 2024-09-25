@@ -1,0 +1,29 @@
+body {
+    font-family: 'Verdana', Arial
+    font-size: 14px ;
+}
+header{
+    background-color: blueviolet;
+}
+nav{
+    background-color: chartreuse;
+}
+main{
+    background-color: burlywood;
+    font-size: larger;
+}
+footer{
+    background-color: #34495e;
+}
+li{
+    display: block;
+    width: 120px;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: brown;
+}
+p{
+   line-height: 200%;
+}
